@@ -8,7 +8,7 @@ pageextension 50149 Comp_Div_HBK_ERPG extends "Company Information"
     actions
     {
         /*
-        // Add changes to page actions here
+        // Add changes to page actions here//
         addafter(Codes)
         //addlast(Navigation)
         {
